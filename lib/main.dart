@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
               Center(
                 child: Text('Hola Mundo.. again', style: TextStyle(fontSize: 24, color: Colors.black)),
               ),
-              SizedBox(height: 20), // Espacio entre widgets
+              SizedBox(height: 20),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children: [
