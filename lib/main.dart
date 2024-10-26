@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
                   Positioned(
                     bottom: 10,
                     right: 10,
-                    child: Text('Encima', style: TextStyle(fontSize: 20, color: Colors.black)),
+                    child: Text('Texto arriba de un contenedor', style: TextStyle(fontSize: 20, color: Colors.black)),
                   )
                 ],
               ),
